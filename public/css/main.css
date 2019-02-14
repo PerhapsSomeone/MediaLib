@@ -1,0 +1,29 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css");
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url("https://use.fontawesome.com/releases/v5.7.2/css/all.css");
+
+
+html {
+    background-color: #212121 !important;
+}
+
+div .notification {
+    background-color: #212121;
+}
+
+* {
+    color: white !important;
+    font-family: "montserrat", serif;
+}
+
+input {
+    background-color: #212121;
+}
+
+.centered {
+    text-align: center;
+}
+
+.page_header {
+    font-size: 36px;
+}
